@@ -2,6 +2,7 @@
 
 ## Note
 > This is a copy of [facerestore custom node](https://civitai.com/models/24690/comfyui-facerestore-node) with a bit of a change to support CodeFormer Fidelity parameter.
+> This is a copy of https://github.com/mav-rik/facerestore_cf with some necessary changes made to make it compatible with python 3.12
 
 These ComfyUI nodes can be used to restore faces in images similar to the face restore option in AUTOMATIC1111 webui.
 
